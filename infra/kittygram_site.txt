@@ -1,0 +1,5 @@
+IP: 84.201.166.7;
+name_taski: https://alextasks.sytes.net/;
+name_kittygram: https://alexkittygram.sytes.net/;
+login: admin;
+password: django2022;
